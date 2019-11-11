@@ -1,5 +1,5 @@
 # 🍐-to-🍐 commons working group
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
 
 The peer-to-peer (🍐-to-🍐) commons is a set of specifications made by humans. In an attempt to make that process transparent, we track the meetings and outcomes of the working group. Meeting notes are separated by meeting into files, following the ISO date format `YYYYMMDD.md`. 
 
