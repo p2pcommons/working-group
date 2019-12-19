@@ -2,7 +2,6 @@
     - Julian Gruber [@juliangruber](https://twitter.com/juliangruber)
     - Diego Paez [@carax](https://twitter.com/carax)
     - Chris Hartgerink [@chartgerink](https://twitter.com/chartgerink)
--   [for reference] [Versioning scheme](https://drive.google.com/a/libscie.org/open?id=1Hp4gIUVNePO33lGcYeK8dOwY6EZWCQrL7XrURIILslg)
 -   General announcements
 -   [`@p2pcommons/specs`](https://github.com/p2pcommons/specs)
     - Update by Chris
@@ -16,10 +15,12 @@
 -   [`@hypergraph-xyz/desktop`](https://github.com/hypergraph-xyz/desktop)
     - Update by Julian
     - Questions
--   `@hypergraph-xyz/mobile`
+-   [`@hypergraph-xyz/editor`](https://github.com/hypergraph-xyz/editor)
+    - Update by Julian
+    - Questions
+-   [`@hypergraph-xyz/mobile`](https://github.com/hypergraph-xyz/mobile)
     - PLACEHOLDER
--   `@hypergraph-xyz/registry`
+-   [`@hypergraph-xyz/vault`](https://github.com/hypergraph-xyz/vault)
     - Update by Chris
+    - Questions
 - Roundabout
-
-    
