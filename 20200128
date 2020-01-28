@@ -1,0 +1,49 @@
+-   Attending
+    - Julian Gruber [@juliangruber](https://twitter.com/juliangruber)
+    - Diego Paez [@carax](https://twitter.com/carax)
+    - Chris Hartgerink [@chartgerink](https://twitter.com/chartgerink)
+    - James Lomas [@jameslibscie](https://github.com/jameslibscie)
+    - Patch Sobrak-Seaton [@psobrakseaton](https://twitter.com/psobrakseaton)
+-   General announcements
+      - The Dat Project has released [v1.0.0 of their sdk](https://github.com/datproject/sdk/releases)
+-   [`@p2pcommons/specs`](https://github.com/p2pcommons/specs)
+    - Update by Chris
+      - Nothing
+    - Questions
+-   [`@p2pcommons/sdk-js`](https://github.com/p2pcommons/sdk-js)
+    - Update by Diego
+      - Finishing the migration to latest hyperdrive and corestore version.
+      - Gtting some help from Andrew (hyper division). Q&A.
+      - Planning to wrap up and release a new version of the sdk, v0.4.0 on Friday (24/01)
+      - Added settings.json support. See [PR](https://github.com/p2pcommons/sdk-js/pull/65)
+      - Looking into restoring previously created hyperdrives. If the user re-opens the app we need to be able to read the old drives again, not only the modules.
+      - Restore drives from leveldb ?
+      - Also need to remove the keyPair option from the hyperdrive creation and rely only on namespaces.
+      - Created a small example where I can test/play with this before moving to the sdk.
+    - Questions
+-   [`@hypergraph-xyz/cli`](https://github.com/hypergraph-xyz/cli)
+    - Update by Julian
+    - Questions
+-   [`@hypergraph-xyz/desktop`](https://github.com/hypergraph-xyz/desktop)
+    - Update by Patch
+      - Creating a clickthrough from the flow and features James and I created.
+      - Will be finished and shared internally this week.
+      - Should be shown to 1-2 outside testers after several quick internal iterations.
+      - We need to discuss and formulate a plan/script for testing with people who are not immediately familiar with our project and product
+    - Update by Julian
+    - Questions
+-   [`@hypergraph-xyz/editor`](https://github.com/hypergraph-xyz/editor)
+    - Update by Julian
+    - Questions
+-   [`@hypergraph-xyz/vault`](https://github.com/hypergraph-xyz/vault)
+    - Update by Chris
+    - Questions
+-   Product management
+    - Update by James
+        - Put together feature list for MVP with Chris & Patch. Basic [Roadmap](https://github.com/hypergraph-xyz/desktop/wiki/Roadmap) now live on the [Hypergraph Desktop wiki](https://github.com/hypergraph-xyz/desktop/wiki)
+        - Planning 1-on-1s with the people I haven't met IRL yet to discuss how we can work together most effectively
+        - Next steps:
+          - Convert feature list to issues and create GitHub Projects (or similar) board(s) for managing the work
+          - Identify SDK, CLI and non-technical issues for work that needs doing prior to these identified Desktop issues
+    - Questions
+- Roundabout
