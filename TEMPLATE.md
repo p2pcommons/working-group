@@ -2,6 +2,8 @@
     - Julian Gruber [@juliangruber](https://twitter.com/juliangruber)
     - Diego Paez [@carax](https://twitter.com/carax)
     - Chris Hartgerink [@chartgerink](https://twitter.com/chartgerink)
+    - James Lomas [@jameslibscie](https://github.com/jameslibscie)
+    - Patch Sobrak-Seaton [@psobrakseaton](https://twitter.com/psobrakseaton)
 -   General announcements
 -   [`@p2pcommons/specs`](https://github.com/p2pcommons/specs)
     - Update by Chris
@@ -13,6 +15,7 @@
     - Update by Julian
     - Questions
 -   [`@hypergraph-xyz/desktop`](https://github.com/hypergraph-xyz/desktop)
+    - Update by Patch
     - Update by Julian
     - Questions
 -   [`@hypergraph-xyz/editor`](https://github.com/hypergraph-xyz/editor)
@@ -22,5 +25,8 @@
     - PLACEHOLDER
 -   [`@hypergraph-xyz/vault`](https://github.com/hypergraph-xyz/vault)
     - Update by Chris
+    - Questions
+-   Product management
+    - Update by James
     - Questions
 - Roundabout
