@@ -1,0 +1,49 @@
+-   Attending
+    - Julian Gruber [@juliangruber](https://twitter.com/juliangruber)
+    - Diego Paez [@carax](https://twitter.com/carax)
+    - Chris Hartgerink [@chartgerink](https://twitter.com/chartgerink)
+    - James Lomas [@jameslibscie](https://github.com/jameslibscie)
+    - Patch Sobrak-Seaton [@psobrakseaton](https://twitter.com/psobrakseaton)
+-   General announcements
+-   [`@p2pcommons/specs`](https://github.com/p2pcommons/specs)
+    - Update by James
+        - Discussions regarding uniqueness and self-referencing
+            - `follows` must not self-reference
+            - `parents` must not self-reference the current version
+            - `authors`, `parents`, `follows` and `contents` must not contain duplicates
+            - `follows`, `contents` and `parents` may still reference multiple versions of the same module (no change)
+    - Questions
+-   [`@p2pcommons/sdk-js`](https://github.com/p2pcommons/sdk-js)
+    - Update by Diego
+        - Been working on clone method 
+        - Updated some external deps 
+            - Debugging networking issues related to closing swarm
+            - Created a fork and made a PR to `corestore-swarm-networking` with closing swarm improvements
+        - Added cancel clone feature
+        - Released SDK v0.5.1
+            - Currently working on formalising release method and adding a Changelog file to the project.
+    - Questions
+        - James: Let's say someone publishes version 10 of a content module to their profile. Later new versions are created.
+        Can someone access those versions by just upping the version number in the link? Or are only `valid` / verified modules seeded?
+-   [`@hypergraph-xyz/cli`](https://github.com/hypergraph-xyz/cli)
+    - Update by Julian
+    - Update by James
+        - Lots of testing on Windows - making Julian's life harder by creating lots of new issues
+    - Questions
+-   [`@hypergraph-xyz/desktop`](https://github.com/hypergraph-xyz/desktop)
+    - Update by Patch
+        - Small clickthrough changes
+        - Tomorrow Julian and I have a dev handoff meeting and he is going to start building
+    - Update by Julian
+    - Questions
+-   [`@hypergraph-xyz/editor`](https://github.com/hypergraph-xyz/editor)
+    - Update by Julian
+    - Questions
+-   [`@hypergraph-xyz/vault`](https://github.com/hypergraph-xyz/vault)
+    - Update by Chris
+    - Questions
+-   Product management
+    - Update by James
+        - Testing - external vs internal
+    - Questions
+- Roundabout
