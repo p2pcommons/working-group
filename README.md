@@ -5,6 +5,8 @@ The peer-to-peer (🍐-to-🍐) commons is a set of specifications made by human
 
 We realize these might not be the easiest to read, because minutes get messy sometime. Also, because the meetings sometimes include talk about other work related to the p2pcommons (e.g., [Hypergraph](https://github.com/hypergraph-xyz)), it might be a bit confusing. Any comments or questions are welcome as [an issue](https://github.com/p2pcommons/working-group/issues/new).
 
+See also the [dependency chart](https://raw.githubusercontent.com/libscie/business-plan/master/assets/dependency-chart.png) for an overview of products we work on and their external dependencies.
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
