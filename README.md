@@ -5,7 +5,7 @@ The peer-to-peer (🍐-to-🍐) commons is a set of specifications made by human
 
 We realize these might not be the easiest to read, because minutes get messy sometime. Also, because the meetings sometimes include talk about other work related to the p2pcommons (e.g., [Hypergraph](https://github.com/hypergraph-xyz)), it might be a bit confusing. Any comments or questions are welcome as [an issue](https://github.com/p2pcommons/working-group/issues/new).
 
-See also the [dependency chart](https://raw.githubusercontent.com/libscie/business-plan/master/assets/dependency-chart.png) for an overview of products the Liberate Science team works on and their external dependencies. These developments inform the `p2pcommons`. If more teams join the working group on `p2pcommons`, we will try to reflect those there too.
+See also the [dependency chart](https://raw.githubusercontent.com/libscie/business-plan/master/assets/dependency-chart.png) for an overview of products the Liberate Science team works on and their external dependencies. These developments inform the [`p2pcommons`](https://github.com/p2pcommons). Right now, the working group covers all the Liberate Science products. If more teams join the working group on `p2pcommons`, we will try to reflect those here too.
 
 ![](https://raw.githubusercontent.com/libscie/business-plan/master/assets/dependency-chart.png)
 
