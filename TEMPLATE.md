@@ -4,6 +4,8 @@
     - Chris Hartgerink [@chartgerink](https://twitter.com/chartgerink)
     - James Lomas [@jameslibscie](https://github.com/jameslibscie)
     - Patch Sobrak-Seaton [@psobrakseaton](https://twitter.com/psobrakseaton)
+    - Lisa Hehnke [@lhehnke](https://www.dataplanes.org)
+-   Highlights
 -   General announcements
 -   [`@p2pcommons/specs`](https://github.com/p2pcommons/specs)
     - Update by Chris
