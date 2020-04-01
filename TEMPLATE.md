@@ -7,17 +7,14 @@
     - Lisa Hehnke [@lhehnke](https://www.dataplanes.org)
 -   Highlights
 -   General announcements
--   [`@p2pcommons/specs`](https://github.com/p2pcommons/specs)
-    - Update by Chris
-    - Questions
--   [`@p2pcommons/sdk-js`](https://github.com/p2pcommons/sdk-js)
-    - Update by Diego
-    - Questions
--   [`@hypergraph-xyz/cli`](https://github.com/hypergraph-xyz/cli)
-    - Update by Julian
-    - Questions
 -   [`@hypergraph-xyz/desktop`](https://github.com/hypergraph-xyz/desktop)
     - Update by Patch
+    - Update by Julian
+    - Questions
+-   [`@hypergraph-xyz/vault`](https://github.com/hypergraph-xyz/vault)
+    - Update by Chris
+    - Questions
+-   [`@hypergraph-xyz/cli`](https://github.com/hypergraph-xyz/cli)
     - Update by Julian
     - Questions
 -   [`@hypergraph-xyz/editor`](https://github.com/hypergraph-xyz/editor)
@@ -25,9 +22,14 @@
     - Questions
 -   [`@hypergraph-xyz/mobile`](https://github.com/hypergraph-xyz/mobile)
     - PLACEHOLDER
--   [`@hypergraph-xyz/vault`](https://github.com/hypergraph-xyz/vault)
+-   [`@hypergraph-xyz` project board run-through](https://github.com/orgs/hypergraph-xyz/projects/2)
+-   [`@p2pcommons/specs`](https://github.com/p2pcommons/specs)
     - Update by Chris
     - Questions
+-   [`@p2pcommons/sdk-js`](https://github.com/p2pcommons/sdk-js)
+    - Update by Diego
+    - Questions
+-   [`@p2pcommons` project board run-through](https://github.com/orgs/p2pcommons/projects/1)
 -   Product management
     - Update by James
     - Questions
