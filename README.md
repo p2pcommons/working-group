@@ -1,4 +1,5 @@
-# p2pcommons working group
+# p2pcommons working group <img src="https://github.com/p2pcommons/design/raw/main/p2pcommons-logomark-1024-square.png" align="right" height="64" />
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
 
 The peer-to-peer commons (p2pcommons) is a set of specifications made by humans. In an attempt to make that process transparent, we track the meetings and outcomes of the working group. Meeting notes are separated by meeting into files, following the ISO date format `YYYYMMDD.md`. This working group convenes on an impromptu basis.
