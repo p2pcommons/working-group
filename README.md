@@ -1,14 +1,12 @@
 # p2pcommons working group <img src="https://github.com/p2pcommons/design/raw/main/p2pcommons-logomark-1024-square.png" align="right" height="64" />
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-The peer-to-peer commons (p2pcommons) is a set of specifications made by humans. In an attempt to make that process transparent, we track the meetings and outcomes of the working group. Meeting notes are separated by meeting into files, following the ISO date format `YYYYMMDD.md`. This working group convenes on an impromptu basis.
+The peer-to-peer commons (p2pcommons) is a set of specifications to provide a distributed information layer to the Internet. In an attempt to make the process underlying those specifications transparent, we track meetings and outcomes of the working group. The working group convenes on an ad hoc basis as issues present themselves. 
 
-We realize these might not be the easiest to read, because minutes get messy sometime. Also, because the meetings sometimes include talk about other work related to the p2pcommons (e.g., [Hypergraph](https://github.com/hypergraph-xyz)), it might be a bit confusing. Any comments or questions are welcome as [an issue](https://github.com/p2pcommons/working-group/issues/new).
-
-See also the [dependency chart](https://raw.githubusercontent.com/libscie/business-plan/master/assets/dependency-chart.png) for an overview of products the Liberate Science team works on and their external dependencies. These developments inform the [`p2pcommons`](https://github.com/p2pcommons). Right now, the working group consists of the Liberate Science team and covers their products. If more teams join the working group on `p2pcommons`, we will try to reflect those here too.
-
-![](https://raw.githubusercontent.com/libscie/business-plan/master/assets/dependency-chart.png)
+Meeting notes and decisions are publicly documented on [the p2pcommons section of the Liberate Science Membership Area](https://gov.libscie.org/p2pcommons/). Minutes for meetings before 2020-09-25 are contained in this repository.
 
 ## Contributors ✨
 
