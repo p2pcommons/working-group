@@ -1,7 +1,7 @@
 # p2pcommons working group <img src="https://github.com/p2pcommons/design/raw/main/p2pcommons-logomark-1024-square.png" align="right" height="64" />
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 The peer-to-peer commons (p2pcommons) is a set of specifications to provide a distributed information layer to the Internet. In an attempt to make the process underlying those specifications transparent, we track meetings and outcomes of the working group. The working group convenes on an ad hoc basis as issues present themselves. 
